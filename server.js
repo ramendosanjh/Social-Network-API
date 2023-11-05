@@ -14,3 +14,4 @@ db.once('open', () => {
       console.log(`the api serve is currently running on port ${PORT}!`);
     });
   });
+  
